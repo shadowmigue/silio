@@ -8,5 +8,10 @@
         "host": "38.143.68.44",
         "image": "us.png",
         "name": "MIGUE VIP 2"
+    },
+    {
+        "host": "140.238.157.225",
+        "image": "ca.png",
+        "name": "MIGUE VIP 3"
     }
 ]
