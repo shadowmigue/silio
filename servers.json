@@ -18,6 +18,11 @@
         "host": "129.213.166.196",
         "image": "us.png",
         "name": "ASHBURN VA"
+    },
+    {
+        "host": "207.246.67.211",
+        "image": "us.png",
+        "name": "MIAMI VULTR"
     }
 ]
 
