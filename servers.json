@@ -2,22 +2,22 @@
     {
         "host": "68.183.56.84",
         "image": "us.png",
-        "name": "MIGUE VIP 1 (DIGITAL)"
+        "name": "DIGITAL NY"
     },
     {
         "host": "38.143.68.44",
         "image": "us.png",
-        "name": "MIGUE VIP 2"
+        "name": "MIGUE VIP"
     },
     {
         "host": "140.238.157.225",
         "image": "ca.png",
-        "name": "MIGUE VIP 3 (CANADA)"
+        "name": "CANADA ORACLE"
     },
     {
         "host": "129.213.166.196",
         "image": "us.png",
-        "name": "MIGUE VIP 4 (ASHBURN VA)"
+        "name": "ASHBURN VA"
     }
 ]
 
