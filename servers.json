@@ -1,28 +1,13 @@
 [
     {
-        "host": "157.245.117.172",
+        "host": "159.65.229.237",
         "image": "us.png",
-        "name": "DIGITAL NY12"
+        "name": "NY DIGITALOCEAN"
     },
     {
         "host": "38.143.68.44",
         "image": "us.png",
-        "name": "MIGUE VIP"
-    },
-    {
-        "host": "162.243.172.172",
-        "image": "us.png",
-        "name": "DIGITAL 3.0"
-    },
-    {
-        "host": "129.213.166.196",
-        "image": "us.png",
-        "name": "ASHBURN VA"
-    },
-    {
-        "host": "207.246.67.211",
-        "image": "us.png",
-        "name": "MIAMI VULTR"
+        "name": "MIAMI LETSCLOUD"
     }
 ]
 
