@@ -5,9 +5,9 @@
         "name": "NY DIGITALOCEAN"
     },
     {
-        "host": "38.143.68.44",
+        "host": "128.254.207.116",
         "image": "us.png",
-        "name": "MIAMI LETSCLOUD"
+        "name": "MIAMI EXTRAVM"
     }
 ]
 
