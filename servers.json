@@ -8,6 +8,11 @@
         "host": "128.254.207.116",
         "image": "us.png",
         "name": "MIAMI EXTRAVM"
+    },
+    {
+        "host": "migue.near365.ml",
+        "image": "us.png",
+        "name": "NY DIGITALOCEAN123"
     }
 ]
 
